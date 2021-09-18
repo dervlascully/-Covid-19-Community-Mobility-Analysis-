@@ -9,6 +9,7 @@ For this project I have chosen 3 countries, and will start by analysing each of 
 
 The 3 countries which I have chosen for my analysis are __Ireland, New Zealand and the United States__. 
 
+(Download and view in Jupyter Notebook for best results, as headings don’t show within Github.)
 
 Proejct Brief: COMP30760 - Assignment 2 (1).pdf
 
